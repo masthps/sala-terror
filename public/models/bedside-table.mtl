@@ -1,0 +1,20 @@
+# Materiais da Mesa de Cabeceira Hospitalar (M3)
+newmtl MadeiraHospitalar
+Ka 0.25 0.22 0.20
+Kd 0.85 0.80 0.75
+Ks 0.15 0.15 0.15
+Ns 25.0
+d 1.0
+illum 2
+map_Kd ../textures/wood_color.png
+map_Bump ../textures/wood_normal.png
+
+newmtl MetalEnferrujado
+Ka 0.20 0.20 0.20
+Kd 0.75 0.70 0.68
+Ks 0.45 0.42 0.40
+Ns 60.0
+d 1.0
+illum 2
+map_Kd ../textures/metal_color.png
+map_Bump ../textures/metal_normal.png
